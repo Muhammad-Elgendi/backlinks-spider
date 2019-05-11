@@ -1,0 +1,7 @@
+com/seospider/seospider/db/DBService.class
+com/seospider/seospider/db/impl/DBServiceImpl.class
+com/seospider/seospider/crawler/PostgresWebCrawler.class
+com/seospider/seospider/SimpleLauncher.class
+com/seospider/seospider/crawler/Similarities.class
+com/seospider/seospider/crawler/PostgresCrawlerFactory.class
+com/seospider/seospider/crawler/LoggerStartupListener.class

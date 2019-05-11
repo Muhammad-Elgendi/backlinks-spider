@@ -1,0 +1,7 @@
+/media/muhammad/disk/projects/SEO-spider/src/main/java/com/seospider/seospider/crawler/PostgresWebCrawler.java
+/media/muhammad/disk/projects/SEO-spider/src/main/java/com/seospider/seospider/db/impl/DBServiceImpl.java
+/media/muhammad/disk/projects/SEO-spider/src/main/java/com/seospider/seospider/SimpleLauncher.java
+/media/muhammad/disk/projects/SEO-spider/src/main/java/com/seospider/seospider/db/DBService.java
+/media/muhammad/disk/projects/SEO-spider/src/main/java/com/seospider/seospider/crawler/PostgresCrawlerFactory.java
+/media/muhammad/disk/projects/SEO-spider/src/main/java/com/seospider/seospider/crawler/Similarities.java
+/media/muhammad/disk/projects/SEO-spider/src/main/java/com/seospider/seospider/crawler/LoggerStartupListener.java
